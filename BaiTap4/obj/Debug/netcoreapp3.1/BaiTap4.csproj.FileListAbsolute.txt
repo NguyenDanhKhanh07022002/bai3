@@ -1,0 +1,13 @@
+E:\C#\BaiTap4\bin\Debug\netcoreapp3.1\BaiTap4.exe
+E:\C#\BaiTap4\bin\Debug\netcoreapp3.1\BaiTap4.deps.json
+E:\C#\BaiTap4\bin\Debug\netcoreapp3.1\BaiTap4.runtimeconfig.json
+E:\C#\BaiTap4\bin\Debug\netcoreapp3.1\BaiTap4.runtimeconfig.dev.json
+E:\C#\BaiTap4\bin\Debug\netcoreapp3.1\BaiTap4.dll
+E:\C#\BaiTap4\bin\Debug\netcoreapp3.1\BaiTap4.pdb
+E:\C#\BaiTap4\obj\Debug\netcoreapp3.1\BaiTap4.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap4\obj\Debug\netcoreapp3.1\BaiTap4.AssemblyInfoInputs.cache
+E:\C#\BaiTap4\obj\Debug\netcoreapp3.1\BaiTap4.AssemblyInfo.cs
+E:\C#\BaiTap4\obj\Debug\netcoreapp3.1\BaiTap4.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap4\obj\Debug\netcoreapp3.1\BaiTap4.dll
+E:\C#\BaiTap4\obj\Debug\netcoreapp3.1\BaiTap4.pdb
+E:\C#\BaiTap4\obj\Debug\netcoreapp3.1\BaiTap4.genruntimeconfig.cache
